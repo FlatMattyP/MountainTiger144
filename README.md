@@ -27,11 +27,3 @@ Hi, I'm MountainTiger144, a passionate self-taught developer from England.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MountainTiger144&layout=compact&theme=radical" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src=github-readme-stats.vercel.app/api/pin/?username=MountainTiger144&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="github-readme-stats.vercel.app/api/pin/?username=MountainTiger144&repo=anuraghazra.github.io&theme=radical" />
