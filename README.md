@@ -8,7 +8,7 @@
 <br />
 
 Hi, I'm MountainTiger144, a passionate self-taught developer from England.
-- 🔭 I’m currently working on my project [Realistic Virus](https://github.com/MountainTiger144/RealisticVirus)
+- 🔭 I’m currently working on a NHD project, [Megumin](https://github.com/newhorizon-development/Megumin)
 - 👯 I’m looking to collaborate on [Realistic Virus](https://github.com/MountainTiger144/RealisticVirus)
 - 💬 Ask me about anything [here](https://github.com/MountainTiger144/MountainTiger144/issues)
 
