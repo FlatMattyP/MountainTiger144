@@ -1,12 +1,5 @@
 ### Hi there, I'm [Mountain!](https://github.com/MountainTiger144/) 👋
 
-<a href="https://discord.gg/FNgWJ7j">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
-<br />
-<br />
-
 Hi, I'm MountainTiger144, a passionate self-taught developer from England.
 - 🔭 I’m currently working on a NHD project, [Megumin](https://github.com/newhorizon-development/Megumin)
 - 👯 I’m looking to collaborate on [Realistic Virus](https://github.com/MountainTiger144/RealisticVirus)
