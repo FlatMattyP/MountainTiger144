@@ -3,7 +3,7 @@
 ## Hi, I'm MountainTiger144, a passionate self-taught developer from England.
 - 🔭 I’m currently working on a my own project, [NightScape](https://github.com/MountainTiger144/NightScape)
 - 👯 I’m looking to collaborate on [NightScape](https://github.com/MountainTiger144/NightScape)
-- 💬 Ask me about anything [here](https://github.com/MountainTiger144/MountainTiger144/issues)
+- 💬 Ask me about anything [here](https://discord.gg/invite/FNgWJ7j)
 
 ### Connect with me:
 
