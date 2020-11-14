@@ -29,5 +29,5 @@
 
 <img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MountainTiger144&show_icons=true&hide_border=true&theme=radical" />
 
-[website]: https://discord.gg/invite/FNgWJ7j
+[website]: https://discord.com/invite/qDgxZMdvYX
 [twitter]: https://twitter.com/DevMountainT144
