@@ -1,9 +1,9 @@
 ### Hi there, I'm [Mountain!](https://github.com/MountainTiger144/) 👋
 
 ## Hi, I'm MountainTiger144, a passionate self-taught developer from England.
-- 🔭 I’m currently working on [my website](https://github.com/MountainTiger144/MountainTiger144.github.io)
+- 🔭 I’m currently working on [Corion](https://github.com/MountainTiger144/CorionBot)
 - 👯 I’m looking to collaborate on [NightScape](https://github.com/MountainTiger144/NightScape)
-- 💬 Ask me about anything [here](https://discord.com/invite/qDgxZMdvYX)
+- 💬 Ask me about anything on Discord [In My Server](https://discord.com/invite/qDgxZMdvYX)
 
 ### Connect with me:
 
